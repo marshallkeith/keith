@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<title>USGS Significant Earthquakes, Past Month</title>
+<updated>2017-03-26T17:25:00Z</updated>
+<author>
+<name>U.S. Geological Survey</name>
+<uri>https://earthquake.usgs.gov/</uri>
+</author>
+<id>https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom</id>
+<link href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom" rel="self"/>
+<icon>https://earthquake.usgs.gov/favicon.ico</icon>
+<entry>
+<id>urn:earthquake-usgs-gov:ci:37828544</id>
+<title>M 3.6 - 2km ESE of Loma Linda, CA</title>
+<updated>2017-03-26T16:02:23.863Z</updated>
+<link type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/ci37828544" rel="alternate"/>
+<summary type="html">
+<![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci37828544#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-IV">ShakeMap - <strong class="roman">IV</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci37828544#dyfi" class="mmi-V" title="Did You Feel It? maximum reported intensity (3394 reports)">DYFI? - <strong class="roman">V</strong></a></p><dl><dt>Time</dt><dd>2017-03-14 05:06:54 UTC</dd><dd>2017-03-13 21:06:54 -08:00 at epicenter</dd><dt>Location</dt><dd>34.039&deg;N 117.239&deg;W</dd><dt>Depth</dt><dd>17.64 km (10.96 mi)</dd></dl>
+]]>
+</summary>
+<georss:point>34.0388333 -117.2386667</georss:point>
+<georss:elev>-17640</georss:elev>
+<category term="Past Month" label="Age"/>
+<category term="Magnitude 3" label="Magnitude"/>
+<category term="ci" label="Contributor"/>
+<category term="ci" label="Author"/>
+</entry>
+<entry>
+<id>urn:earthquake-usgs-gov:us:1000876f</id>
+<title>M 6.3 - 32km NW of Kandrian, Papua New Guinea</title>
+<updated>2017-03-10T18:37:18.734Z</updated>
+<link type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000876f" rel="alternate"/>
+<summary type="html">
+<![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000876f#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000876f#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VI">ShakeMap - <strong class="roman">VI</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000876f#dyfi" class="mmi-IX" title="Did You Feel It? maximum reported intensity (4 reports)">DYFI? - <strong class="roman">IX</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2017-03-05 22:47:53 UTC</dd><dd>2017-03-06 08:47:53 +10:00 at epicenter</dd><dt>Location</dt><dd>5.999&deg;S 149.353&deg;E</dd><dt>Depth</dt><dd>31.07 km (19.31 mi)</dd></dl>
+]]>
+</summary>
+<georss:point>-5.999 149.353</georss:point>
+<georss:elev>-31070</georss:elev>
+<category term="Past Month" label="Age"/>
+<category term="Magnitude 6" label="Magnitude"/>
+<category term="us" label="Contributor"/>
+<category term="us" label="Author"/>
+</entry>
+<entry>
+<id>urn:earthquake-usgs-gov:ak:15426300</id>
+<title>M 5.5 - 42km WSW of Anchor Point, Alaska</title>
+<updated>2017-03-13T23:55:23.379Z</updated>
+<link type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/ak15426300" rel="alternate"/>
+<summary type="html">
+<![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ak15426300#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ak15426300#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-IV">ShakeMap - <strong class="roman">IV</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ak15426300#dyfi" class="mmi-V" title="Did You Feel It? maximum reported intensity (488 reports)">DYFI? - <strong class="roman">V</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2017-03-02 02:11:30 UTC</dd><dd>2017-03-01 16:11:30 -10:00 at epicenter</dd><dt>Location</dt><dd>59.579&deg;N 152.655&deg;W</dd><dt>Depth</dt><dd>78.00 km (48.47 mi)</dd></dl>
+]]>
+</summary>
+<georss:point>59.5785 -152.6546</georss:point>
+<georss:elev>-78000</georss:elev>
+<category term="Past Month" label="Age"/>
+<category term="Magnitude 5" label="Magnitude"/>
+<category term="ak" label="Contributor"/>
+<category term="ak" label="Author"/>
+</entry>
+<entry>
+<id>urn:earthquake-usgs-gov:us:20008m3t</id>
+<title>M 6.9 - 289km S of Ndoi Island, Fiji</title>
+<updated>2017-03-08T18:38:16.565Z</updated>
+<link type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us20008m3t" rel="alternate"/>
+<summary type="html">
+<![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us20008m3t#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us20008m3t#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-III">ShakeMap - <strong class="roman">III</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us20008m3t#dyfi" class="mmi-II" title="Did You Feel It? maximum reported intensity (2 reports)">DYFI? - <strong class="roman">II</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2017-02-24 17:28:44 UTC</dd><dd>2017-02-24 05:28:44 -12:00 at epicenter</dd><dt>Location</dt><dd>23.260&deg;S 178.803&deg;W</dd><dt>Depth</dt><dd>414.89 km (257.80 mi)</dd></dl>
+]]>
+</summary>
+<georss:point>-23.2601 -178.8033</georss:point>
+<georss:elev>-414890</georss:elev>
+<category term="Past Month" label="Age"/>
+<category term="Magnitude 6" label="Magnitude"/>
+<category term="us" label="Contributor"/>
+<category term="us" label="Author"/>
+</entry>
+</feed>
